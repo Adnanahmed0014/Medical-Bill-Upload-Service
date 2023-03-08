@@ -11,7 +11,7 @@ This is a service that allows users to upload and retrieve medical bills. It's m
 
 1. Clone this repository:
 
-   `git clone https://github.com/Adnanahmed0014/TruffleHealth_SWEAssessment.git`
+   `git clone https://github.com/Adnanahmed0014/Medical-Bill-Upload-Service.git`
 
 2. Install dependencies:
 
